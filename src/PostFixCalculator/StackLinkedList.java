@@ -1,8 +1,5 @@
-// Assignment #: 3 - Stacks & Queues
-//         Name: Tyler Hickam
-//      Lecture: CPI 220 - T Th 3-4:15 - Selgrad
-//  Description: Stack implemented with a linked list 
-
+// Author: Tyler Hickam
+// Purpose: implementation of both a stack and linked list
 package PostFixCalculator;
 
 public class StackLinkedList<T> {

@@ -1,16 +1,9 @@
-// Assignment #: 3 - Stacks & Queues
-//         Name: Tyler Hickam
-//      Lecture: CPI 220 - T Th 3-4:15 - Selgrad
-//  Description: Solves in-fix math expressions. 
-//               Displays the post fix expression.
+// Author: Tyler Hickam
+// Purpose: GUI & in-fix to post-fix conversion and calculation
 package PostFixCalculator;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Tyler
- */
 public class Calculator extends javax.swing.JFrame {
 
     /**
